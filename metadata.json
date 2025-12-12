@@ -1,0 +1,8 @@
+{
+  "name": "FocusTree",
+  "description": "An AI-powered productivity app that gamifies focus sessions with a growing tree visualization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
